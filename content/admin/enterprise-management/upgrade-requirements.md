@@ -17,7 +17,7 @@ versions:
 - If you're using {% data variables.product.prodname_ghe_server %} Clustering, see "[Upgrading a cluster](/enterprise/{{ currentVersion }}/admin/guides/clustering/upgrading-a-cluster/)" in the {% data variables.product.prodname_ghe_server %} Clustering Guide for specific instructions unique to clustering.
 -   The release notes for {% data variables.product.prodname_ghe_server %} provide a comprehensive list of new features for every version of {% data variables.product.prodname_ghe_server %}. For more information, see the [releases page](https://enterprise.github.com/releases).
 
-{% endnote %}
+{%yessà 100 %}
 
 ### Recommendations
 
